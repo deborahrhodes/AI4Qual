@@ -1,4 +1,6 @@
-# Employer Risk Expectation Open Codes 
+# Open Codes for all Dimensions
+
+### Employer Risk Expectation Open Codes 
 
 | Scenario Codes  | Safety Codes  |
 | :---- | :---- |
@@ -97,7 +99,7 @@
 | Negative reinforcement and discouragement in early job experiences  | Management's Safety Prioritization through Operational Adjustments  |
 | Collaborative Communication and Adherence to Protocols to Manage Cow Flow Challenges  | Managing cow flow and safety during milking in a herringbone shed  |
 
-Justice (safety) Open Codes 
+### Justice (safety) Open Codes 
 
 | Scenario Codes  | Safety Codes  |
 | :---- | :---- |
@@ -195,7 +197,7 @@ Justice (safety) Open Codes
 | Honest Communication and Request for Support Amid Inexperience  | Fair and Responsible Accident Management  |
 | Prompt Communication to Prevent Recurrence  | Systematic Accident Investigation and Team Communication for Safety Improvement  |
 
-Workers Risk Expectation Open Codes 
+### Workers Risk Expectation Open Codes 
 
 | Scenario Codes  | Safety Codes  |
 | :---- | :---- |
@@ -292,7 +294,7 @@ Workers Risk Expectation Open Codes
 | Commitment to Thoroughness Despite Time Pressure  | Collaborative Safety Practices Among Work Mates  |
 | Effective Communication and Task Prioritization in Farm Work  | Mutual Support and Care in Workplace Safety  |
 
-Communication and Danger Tolerance Open Codes 
+### Communication and Danger Tolerance Open Codes 
 
 | Scenario Codes  | Safety Codes  |
 | :---- | :---- |
@@ -393,7 +395,7 @@ Communication and Danger Tolerance Open Codes
 
  
 
-Trust Open Codes 
+### Trust Open Codes 
 
 | Scenario Codes  | Safety Codes  |
 | :---- | :---- |
